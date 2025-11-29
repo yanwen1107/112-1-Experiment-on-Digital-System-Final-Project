@@ -1,8 +1,9 @@
 # Snake
 Implement snake Game on FPGA
+Demo video: https://youtu.be/7CC-fl-74z8?si=TBL-f0BjG2x86DW3
 
 # 簡介
-數位系統實驗期末prohrct,利用FPGA上的按鈕搭配VGA輸出來玩貪食蛇
+數位系統實驗期末project,利用FPGA上的按鈕搭配VGA輸出來玩貪食蛇
 
 # 模組
 - **clk_div_3.v:** 3.3HZ
